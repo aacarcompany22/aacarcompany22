@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 I’m an aspiring mathematics undergraduate fascinated by the power of numbers, logic, and machine learning. I’m passionate about using data and technology to make a real social difference — from solving everyday problems to contributing to a fairer, smarter world.
+Hi there! 👋 I aspire to work in tech and I'm fascinated by the power of numbers, logic, and machine learning. I’m passionate about using data and technology to make a real social difference — from solving everyday problems to contributing to a fairer, smarter world.
 
 
 ## 🌐 Socials:
