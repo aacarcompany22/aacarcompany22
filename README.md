@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 1st year Maths + cs student
 
 
